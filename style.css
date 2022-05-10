@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar li {
+    display: inline-block;
+    left: 40px;
+    bottom: 10px;
+    position: relative;
+    margin-top: 20px;
+    padding-right: 70px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.navbar {
+    background-color: #45a1ff;
+    padding-top: 8px;
+}
+
+#quote {
+    display: inline-block;
+    position: relative;
+    left: 600px;
+    bottom: 25px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: 'Cormorant Garamond', Georgia, serif;
+
+}
+
+.menu li {
+    display: inline-block;
+    position: relative;
+    left: 450px;
+    margin-top: 10px;
+    padding-right: 100px;
+    font-size: 25px;
+    cursor: pointer;
+    color: lightseagreen
+}
+
+img {
+    width:100%;
+}
+#photos{
+    width: 1000px;
+    height: 1000px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.places {
+    color: mediumblue;
+}
+.lakes{
+    color:orangered;
+}
+.food{
+    color:forestgreen;
+}
+p {
+    font-size: 20px;
+    line-height: 30px;
+    display: inline-block;
+    margin-right: 300px;
+}
+.middle{
+    background-color:aliceblue;
+}
+footer {
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        background-color: #45a1ff;
+        color: #fff;
+    }
+    figcaption{
+        text-align: center;
+        font-style: italic;
+        font-size: 17px;
+    }
+    
+
