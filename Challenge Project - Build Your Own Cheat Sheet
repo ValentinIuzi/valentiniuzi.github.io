@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>The Beautiful Italy</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,700&display=swap"
+    rel="stylesheet" />
+</head>
+
+<body>
+  <div class="navbar">
+    <ul>
+      <li><a href="#"></a>Home</li>
+      <li><a href="#"></a>About</li>
+    </ul>
+    <p id="quote">
+      "You may have the universe if I may have Italy."- Giuseppe Verdi
+    </p>
+  </div>
+  <div class="menu">
+    <ul>
+      <li><a href="#places">Places</a></li>
+      <li><a href="#lakes">Lakes</a></li>
+      <li><a href="#food">Food</a></li>
+    </ul>
+  </div>
+  <img src="ricardo-gomez-angel-dBOZ7XL4b_E-unsplash.jpg" alt="Italy" />
+  <h1 id="places">Best Places to visit Italy</h1>
+  <section class="middle">
+    <article>
+      <h2 class="places">#1Rome</h2>
+      <hr />
+      <p>
+        Rome. Just hearing the name conjures up some of the most famous
+        landmarks in the world…the Colosseum, the Sistine Chapel, and the
+        Vatican.The history here spans 28 centuries, making Rome one of the
+        oldest inhabited cites in Europe (and one of the best places to visit
+        in Italy).This city is a wonderful blend of historical sites, charming
+        piazzas and neighborhoods, world-class museums, and iconic sites. For
+        the first-time visitor, Rome belongs at or near the top of your list.
+        It’s a big, bustling city but the main sites are clustered around the
+        historic city center.
+      </p>
+      <figure>
+        <img id="photos" src="images/Rome.jpg" alt="Rome" />
+        <figcaption>Piazza Navona | Best Places To Visit Italy</figcaption>
+      </figure>
+
+    </article>
+    <article>
+      <h2 class="places">#2Florence</h2>
+      <hr />
+      <p>
+        Without a doubt, Florence (Firenze) is one of the best places to visit
+        in Italy.
+      </p>
+      <p>
+        This city was the birthplace of the Renaissance and the art museums
+        here are a testament to that. Michelangelo’s David, the amazing Uffizi
+        Gallery, the murals inside the dome of the Duomo, and the statues that
+        are on display in the historic city center are spectacular sights to
+        see. But there are enough towers to climb, gelato to eat, and shops to
+        visit that you don’t have to feel like you are on museum overload on a
+        visit to Florence.
+      </p>
+      <figure>
+        <img id="photos" src="images/Florence.jpg" alt="Florence" />
+        <figcaption>Florence | Best Places To Visit Italy</figcaption>
+      </figure>
+
+    </article>
+    <article>
+      <h2 class="places">#3Milan</h2>
+      <hr />
+      <p>
+        Milan is home to the Duomo, world-class museums, trendy shopping
+        areas, and Leonardo da Vinci’s “Last Supper.” This city &nbsp; is
+        undergoing an architectural Renaissance and it is worth even a few
+        hours on the fastest of itineraries.
+      </p>
+      <figure>
+        <img id="photos" src="images/Milan.jpg" alt="Milan" />
+        <figcaption>Duomo in Milan | Best Places To Visit Italy</figcaption>
+      </figure>
+
+    </article>
+    <article>
+      <h2 class="places">#4Venice</h2>
+      <hr />
+      <p>
+        Venice is one of our favorite spots in Italy. Why?It is small and
+        compact, perfect to be explored with just a few days time. Venice is
+        romantic, historic, and gorgeous. The canals, the gondolas, the
+        architecture, the colorful towns of Murano and Burano…what is not to
+        love?
+      </p>
+      <p>
+        Venice is one of the best places to visit in Italy and makes it to the
+        top of the list for many first-time visitors.
+      </p>
+      <figure>
+        <img id="photos" src="images/Venice.jpg" alt="Venice" />
+        <figcaption>Venice in all its charm | Best Places To Visit Italy</figcaption>
+      </figure>
+
+    </article>
+  </section>
+  <h1 id="lakes">Best Lakes to visit Italy</h1>
+  <section>
+    <article>
+      <h2 class="lakes">#1Lake Como</h2>
+      <hr />
+      <p>
+        If celebrity spotting is your passion, Lake Como is the place to go.
+        Lake Como has been a tourist magnet starting with the Romans, who
+        built the first villas on the lake. Many celebrities have holiday
+        homes along the lake – who knows, perhaps you’ll see George Clooney
+        out with his twins. But if the lake interests you more, you should
+        know it’s one of the deepest in Europe, at 400 meters (1,300 feet).
+        Travelers come here for its landscape, explore Villa Carlotta or take
+        the tasting gelato in the town of Como. Ferry service links the
+        villages along the lake.
+      </p>
+      <figure>
+        <img id="photos" src="images/Lake Como.jpg" alt="Como" />
+        <figcaption>Lake Como | Best Lakes To Visit Italy</figcaption>
+      </figure>
+
+      <h2 class="lakes">#2Lake Garda</h2>
+      <hr />
+      <p>
+        Northern Italy’s Lake Garda, which was created by glacial action, is
+        the largest lake in Italy. This picturesque lake, bounded by
+        mountains, is a popular vacation destination. The lake contains
+        several islands, including Isola del Garda where St. Francis of Assisi
+        founded a monastery in 1220. The lake itself has a fjord-like quality;
+        a ferry makes it fun to travel between the towns on the lake. Orange
+        and lemon tree, and olive groves flank its shores, adding a nice
+        scenic touch. The lake is popular with bikers, boaters, wind surfers
+        and those who prefer to roam the quaint island villages.
+      </p>
+      <figure>
+        <img id="photos" src="images/Lake Garda.jpg" alt="Garda" />
+        <figcaption>Lake Garda | Best Lakes To Visit Italy</figcaption>
+      </figure>
+
+      <h2 class="lakes">#3Lake Maggioree</h2>
+      <hr />
+      <p>
+        Lake Maggiore is another lake claimed by two countries, Italy and
+        Switzerland, since it forms a border between them. Italy’s second
+        largest lake (Maggiore translates as “great lake”) is located on the
+        south side of the Alps. It has a Mediterranean climate, making it
+        possible to grow exotic plants. The lake is particularly pretty when
+        blossoms are blooming on the hills. A good place to view this 64-km
+        (40-mile) long lake and its islands is to take the Mottarone cable car
+        up the mountains. You can also take a relaxing cruise on the lake or
+        even bike around it.
+      </p>
+      <figure>
+        <img id="photos" src="images/Lake Maggiore.jpg" alt="Maggiore" />
+        <figcaption>Lake Maggiore | Best Lakes To Visit Italy</figcaption>
+      </figure>
+
+      <h2 class="lakes">#4Lake Orta</h2>
+      <hr />
+      <p>
+        Journalists, from Balzac and Browning to more modern writers, call
+        Lake Orta bewitching and a secret gem among northern Italy’s lakes.
+        The landscape is indeed beautiful, with the Isla San Guilio
+        punctuating it like an exclamation mark. (San Guilio is the patron
+        saint of the region.) The island is perfect for strolling, both
+        leisurely and romantic, over the cobblestone streets. Be sure to visit
+        the 12th century basilica or a colorful market. If it’s serenity
+        you’re seeking, end your search at Lake Orta, a sea of tranquility
+        nestled among the forests and mountains, about an hour’s drive from
+        busy Milan.
+      </p>
+      <figure>
+        <img id="photos" src="images/Lake Orta.jpg" alt="Orta" />
+        <figcaption>Lake Orta | Best Lakes To Visit Italy</figcaption>
+      </figure>
+
+    </article>
+  </section>
+  <h1 id="food">The Best Food In Italy</h1>
+  <section>
+    <article>
+      <h2 class="food">#1Risotto</h2>
+      <hr />
+      <p>
+        Risotto is a typical northern Italian dish that can be cooked in an
+        infinite number of ways. Creamy and rich in cheese, it is prepared
+        with rice typical of northern areas, such as the Arborio, Carnaroli,
+        and Vialone varieties, and cooked slowly in broth.
+      </p>
+      <figure>
+        <img id="photos" src="images/risotto.jpg" alt="Risotto">
+        <figcaption>Risotto | The Best Food In Italy</figcaption>
+      </figure>
+      
+      <p>
+        <a href="https://www.chefspencil.com/recipe/risotto-cacio-e-pepe/" target="_blank">Risotto Cacio e Pepe Recipe
+          By Chef Massimo Bottura</a>
+      </p>
+      <p>
+        <a href="https://www.chefspencil.com/recipe/green-herb-risotto-with-goat-cheese/" target="_blank">Green Herb
+          Risotto with Goat Cheese Recipe</a>
+      </p>
+      <p>
+        <a href="https://www.chefspencil.com/recipe/asparagus-and-prosecco-risotto/" target="_blank">Asparagus and
+          Prosecco Risotto Recipe</a>
+      </p>
+      <p>
+        Among the most popular is “risotto alla milanese”, which is prepared
+        with white wine, Parmesan cheese, butter, onions, and saffron, which
+        gives it its unmistakable yellow color. But it can also be made with
+        many other ingredients such as pumpkin, red radicchio, mushrooms,
+        sausage, or shellfish.
+      </p>
+    </article>
+    <article>
+      <h2 class="food">#2Pizza</h2>
+      <hr />
+      <p>
+        Pizza. Inevitable if we speak about Italian food: pizza is a national
+        symbol, a food that represents Italy in the world, and has been
+        <span><a href="https://ich.unesco.org/en/RL/art-of-neapolitan-pizzaiuolo-00722" target="_blank">recognized by
+            UNESCO
+          </a></span>
+        as an Intangible Cultural Heritage of Humanity. Every pizza maker has
+        their own secrets and every pizza, made of flour, water, brewer’s
+        yeast, and salt, can be stuffed or topped in many different ways. The
+        original pizza was created in Naples, in southern Italy, at the end of
+        the 18th century in honor of the Queen of Italy, Margherita di Savoia.
+        It is presented with a high “cornicione” (the edge) and is lower in
+        the center, and is strictly baked in a wood-fired oven. The “pizza
+        margherita” is the most famous and simplest of pizzas, with its tomato
+        sauce, mozzarella, and basil, recalling the colors of the national
+        flag.
+      </p>
+      <figure>
+        <img id="photos" src="images/pizza.jpg" alt="Pizza">
+        <figcaption>Pizza Margherita | The Best Food In Italy</figcaption>
+      </figure>
+      
+      <p><a href="https://www.bbcgoodfood.com/recipes/collection/margherita-pizza-recipes" target="_blank">Margherita
+          Pizza Recipes</a>
+      </p>
+    </article>
+    <article>
+      <h2 class="food">#3Pasta</h2>
+      <hr>
+      <p>
+        Another symbol, a national icon, loved all over the world, is pasta. Born in Sicily, in a short time it
+        expanded
+        its production to other regions by the sea that at the time had ports and an ideal climate for the drying of
+        the
+        product. Among the most famous areas are Naples and Imperia.
+
+        Rome, however, became the capital of spaghetti, and where “spaghetti alla carbonara” made history. It was born
+        almost by chance, from the imagination of a young cook from Bologna, who added bacon with egg yolk, milk,
+        cream,
+        and cheese.
+        <p><a href="https://www.chefspencil.com/recipe/spaghetti-vongole/" target="_blank">Spaghetti Vongole
+            Recipe</a>
+        </p>
+        <p><a href="https://www.chefspencil.com/recipe/prawns-and-chickpeas-fettuccine/" target="_blank">Prawns and
+            Chickpeas FettuccineRecipe</a></p>
+            <figure>
+              <img id="photos" src="images/pasta.jpg" alt="Pasta">
+              <figcaption>Pasta | The Best Food In Italy</figcaption>
+            </figure>
+        
+        <p>
+          The recipe has changed little over the years and now includes bacon, egg yolk, and cheese. In the Italian
+          capital, they also eat “bucatini al cacio e pepe” made with just butter, pepper, and pecorino cheese.
+          The secret is to mix them at the right times. Another famous pasta dish is the “penne all’arrabbiata”—pasta
+          with a spicy tomato sauce.
+
+          Yet another classic example of Italian pasta is “tagliatella al ragù”, originally from Bologna, with
+          long-cooked meat and tomato sauce.
+        </p>
+      </p>
+    </article>
+    <article>
+      <h2 class="food">#4Tortelli and Ravioli</h2>
+      <hr>
+      <p>
+        The family of stuffed pasta in Italy is really very large. From north to south, almost every region has its
+        own
+        preparation. And many are well known, such as “tortellini” from Emilia, made of pork with prosciutto and
+        mortadella, to be eaten in meat broth, and the dry “tortelli,” with a larger rectangular shape, stuffed with
+        herbs, pumpkin, or potatoes and served with butter and cheese.
+      </p>
+      <figure>
+         <img id="photos" src="images/ravioli.jpg" alt="Ravioli">
+         <figcaption>Ravioli | The Best Food In Italy</figcaption>
+      </figure>
+     
+      <p><a href="https://www.chefspencil.com/recipe/kohlrabi-ravioli-stuffed-with-avocado-cream/"
+          target="_blank"><span>Ravioli
+            Stuffed with Avocado Cream and Pea Purée</span> </a></p>
+      <p><a href="https://www.chefspencil.com/recipe/pumpkin-ravioli-with-sage-and-hazelnut-pesto/">Pumpkin Ravioli
+          with
+          Sage and Hazelnut Pesto</a></p>
+      <p>“Agnolotti del plin,” from Piedmont, filled with mixed meats and vegetables, are served seasoned with roast
+        sauce or butter and sage.
+
+        The traditional Ligurian ravioli are stuffed with meat cooked in tomato sauce, chard, and borage or filled
+        with
+        fish.</p>
+    </article>
+  </section>
+  <footer>
+    <p> 2022 &copy; Challenge Project - Build Your Own Cheat Sheet</p>
+  </footer>
+</body>
+
+</html>
